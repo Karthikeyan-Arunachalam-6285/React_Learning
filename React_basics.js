@@ -5,4 +5,4 @@ const x =(a,b)=>{
     return a*b;
 }
 
-(x)
+(x);
